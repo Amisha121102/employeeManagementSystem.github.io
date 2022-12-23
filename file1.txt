@@ -1,0 +1,7 @@
+Employee ID:1
+Employee Name     :Amisha
+Father's Name     :Singla
+Employee Contact  :1234567890
+Email Information :amisha@gmail.com
+Employee position :developer
+Employee Salary   :789700
